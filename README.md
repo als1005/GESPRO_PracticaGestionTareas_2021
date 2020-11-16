@@ -8,3 +8,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 [Abel Lagunar Sancho](https://github.com/als1005).
 
 [Álvaro Alonso Marín](https://github.com/xam1002).
+
+[Haber silló](https://github.com/jas1008).
